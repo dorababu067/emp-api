@@ -1,0 +1,15 @@
+# Create your views here.
+
+# 4 REST API
+#  1) Create Employee
+#  2) Get 1 Employee detail
+#  3) Get employee list with optional filter of department, emp name
+#  4) Update Employee
+
+#  Postman collection
+
+# https://gitlab.dotcompliancegroup.com/assessment/py-dorababu.git
+# Name: assessment_dorababu
+# Username: assessment_dorababu
+# Email: dorababua567@gmail.com
+# Passwd: FStack*dev124
